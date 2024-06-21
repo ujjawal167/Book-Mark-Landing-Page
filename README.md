@@ -87,8 +87,10 @@ bookmark-manager/
 ```
 
 ## Demo video-
-Link is Given below:
-file:///C:/Users/UJJAWAL/Videos/Recording%202024-06-21%20115444.mp4
+Check the LinkedIn Profile for Clearance:
+```
+
+```
 
 ## Disclaimer-
 This repository is generally used for educational and bussiness purposes
