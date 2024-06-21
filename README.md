@@ -25,7 +25,7 @@ A clean and simple interface to organize your favorite websites. Open a new brow
 To get started, clone the repository and open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/yourusername/bookmark-manager.git
+git clone https://github.com/ujjawal167/bookmark-manager.git
 cd bookmark-manager
 ```
 
