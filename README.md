@@ -89,7 +89,7 @@ bookmark-manager/
 ## Demo video-
 Check the LinkedIn Profile for Clearance:
 ```
-
+www.linkedin.com/in/ujjawal-singh-219b77279
 ```
 
 ## Disclaimer-
